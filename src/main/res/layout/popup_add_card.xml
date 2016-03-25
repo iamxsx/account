@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="6dp"
+    android:background="@drawable/popup_bg"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:padding="16dp">
+
+        <ImageView
+            android:id="@+id/iv_close"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_close" />
+        <ImageView
+            android:id="@+id/iv_ok"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_ok" />
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:background="@drawable/circle_bg_storke"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:src="@drawable/ic_card" />
+
+    </LinearLayout>
+
+    <EditText
+        android:layout_marginTop="24dp"
+        android:id="@+id/et_card_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:background="@null"
+        android:gravity="center"
+        android:hint="请输入添加的卡名"
+        android:padding="12dp"
+        android:textColor="#fff"
+        android:textColorHint="#fff"
+        android:textColorLink="#fff" />
+
+    <EditText
+        android:inputType="numberDecimal"
+        android:layout_marginBottom="24dp"
+        android:id="@+id/et_enter_money"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:background="@null"
+        android:gravity="center"
+        android:hint="请输入金额"
+        android:padding="12dp"
+        android:textColor="#fff"
+        android:textColorHint="#fff"
+        android:textColorLink="#fff" />
+
+
+</LinearLayout>

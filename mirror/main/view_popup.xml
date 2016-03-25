@@ -1,0 +1,7 @@
+<!-- [ Mirror metadata ] generatedAt: 1457753741531 -->
+<screen>
+    <_content layout="@layout/view_popup" >
+        <!-- Error creating screen file for file view_popup.xml:
+        start tag unexpected character # (position: TEXT seen ...\n            android:text="100\u951f\ufffd\r\n            android:textColor="#... @85:33)  -->
+    </_content>
+</screen>

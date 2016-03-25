@@ -1,0 +1,7 @@
+<!-- [ Mirror metadata ] generatedAt: 1457753741531 -->
+<screen>
+    <_content layout="@layout/view_bank_card" >
+        <!-- Error creating screen file for file view_bank_card.xml:
+        start tag unexpected character @ (position: TEXT seen ...        android:text="1000\u951f\ufffd\r\n                android:textColor="@... @32:37)  -->
+    </_content>
+</screen>

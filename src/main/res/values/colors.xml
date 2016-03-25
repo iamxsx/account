@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f24f59</color>
+    <color name="colorPrimaryDark">#f24f59</color>
+    <color name="colorAccent">#f24f59</color>
+    <color name="action_bar_color">#f24f59</color>
+    <color name="text_color_white">#ffffff</color>
+    <color name="bg_color_gray">#efeff4</color>
+    <color name="bg_color_white">#ffffff</color>
+    <color name="text_color_red">#f24f59</color>
+    <color name="line_color">#97e4d6d6</color>
+    <color name="common_green">#23b576</color>
+    <color name="text_color_gray">#a6a6a6</color>
+    <color name="text_color_black">#000000</color>
+    <color name="btn_color_press">#178656</color>
+    <color name="btn_color_normal">#23b576</color>
+    <color name="press_red">#c63039</color>
+
+</resources>

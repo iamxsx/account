@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include layout="@layout/layout_action_bar"/>/
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:padding="16dp"
+        android:textSize="24dp"
+        android:textStyle="bold"
+        android:textColor="@color/common_green"
+        android:hint="请输入金额"
+        android:textColorHint="@color/bg_color_gray"
+        android:textColorLink="@color/common_green"
+        />
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,7 @@
+<!-- [ Mirror metadata ] generatedAt: 1457753741484 -->
+<screen>
+    <_content layout="@layout/activity_main" >
+        <!-- Error creating screen file for file activity_main.xml:
+        expected = after attribute name (position: TEXT seen ...d:text="\u941c\u4f34\u567e\u6d63\u6b13\ue582\u951f\ufffd\r\n                        android:textStyle="bold"... @45:49)  -->
+    </_content>
+</screen>

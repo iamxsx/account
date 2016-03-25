@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:visibility="gone"
+    android:orientation="vertical">
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:columnCount="4"
+        android:padding="16dp"
+        android:rowCount="4">
+
+        <TextView
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_margin="6dp"
+            android:background="@drawable/board_btn_bg"
+            android:gravity="center"
+            android:text="1"
+            android:textColor="@color/text_color_red"
+            android:textSize="24dp" />
+
+        <TextView
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_margin="6dp"
+            android:background="@drawable/board_btn_bg"
+            android:gravity="center"
+            android:text="2"
+            android:textColor="@color/text_color_red"
+            android:textSize="24dp" />
+
+        <TextView
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_margin="6dp"
+            android:background="@drawable/board_btn_bg"
+            android:gravity="center"
+            android:text="3"
+            android:textColor="@color/text_color_red"
+            android:textSize="24dp" />
+
+
+        <TextView
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_margin="6dp"
+            android:background="@drawable/board_btn_bg"
+            android:gravity="center"
+            android:text="退格"
+            android:textColor="@color/text_color_red"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_margin="6dp"
+            android:background="@drawable/board_btn_bg"
+            android:gravity="center"
+            android:text="4"
+            android:textColor="@color/text_color_red"
+            android:textSize="24dp" />
+
+        <TextView
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_margin="6dp"
+            android:background="@drawable/board_btn_bg"
+            android:gravity="center"
+            android:text="5"
+            android:textColor="@color/text_color_red"
+            android:textSize="24dp" />
+
+        <TextView
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_margin="6dp"
+            android:background="@drawable/board_btn_bg"
+            android:gravity="center"
+            android:text="6"
+            android:textColor="@color/text_color_red"
+            android:textSize="24dp" />
+
+        <TextView
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_margin="6dp"
+            android:background="@drawable/board_btn_bg"
+            android:gravity="center"
+            android:text="+"
+            android:textColor="@color/text_color_red"
+            android:textSize="24dp" />
+
+
+        <TextView
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_margin="6dp"
+            android:background="@drawable/board_btn_bg"
+            android:gravity="center"
+            android:text="7"
+            android:textColor="@color/text_color_red"
+            android:textSize="24dp" />
+
+        <TextView
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_margin="6dp"
+            android:background="@drawable/board_btn_bg"
+            android:gravity="center"
+            android:text="8"
+            android:textColor="@color/text_color_red"
+            android:textSize="24dp" />
+
+        <TextView
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_margin="6dp"
+            android:background="@drawable/board_btn_bg"
+            android:gravity="center"
+            android:text="9"
+            android:textColor="@color/text_color_red"
+            android:textSize="24dp" />
+
+        <TextView
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_margin="6dp"
+            android:background="@drawable/board_btn_bg"
+            android:gravity="center"
+            android:text="-"
+            android:textColor="@color/text_color_red"
+            android:textSize="24dp" />
+
+        <TextView
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_margin="6dp"
+            android:background="@drawable/board_btn_bg"
+            android:gravity="center"
+            android:text="清空"
+            android:textColor="@color/text_color_red"
+            android:textSize="16dp" />
+
+        <TextView
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_margin="6dp"
+            android:background="@drawable/board_btn_bg"
+            android:gravity="center"
+            android:text="0"
+            android:textColor="@color/text_color_red"
+            android:textSize="24dp" />
+
+        <TextView
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_margin="6dp"
+            android:background="@drawable/board_btn_bg"
+            android:gravity="center"
+            android:text="."
+            android:textColor="@color/text_color_red"
+            android:textSize="24dp" />
+
+        <TextView
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_margin="6dp"
+            android:background="@drawable/board_btn_bg"
+            android:gravity="center"
+            android:text="确定"
+            android:textColor="@color/text_color_red"
+            android:textSize="16dp" />
+
+    </GridLayout>
+
+</LinearLayout>

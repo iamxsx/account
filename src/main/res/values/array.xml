@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="a1">
+        <item>食品酒水</item>
+        <item>衣服饰品</item>
+        <item>居家行业</item>
+        <item>行车交通</item>
+        <item>交流通讯</item>
+        <item>休闲娱乐</item>
+        <item>学习进修</item>
+        <item>人情往来</item>
+        <item>医疗保健</item>
+        <item>金融投资</item>
+        <item>其他</item>
+    </array>
+
+    <array name="a1_1">
+        <item>三餐</item>
+        <item>烟酒茶</item>
+        <item>水果零食</item>
+    </array>
+
+    <array name="a1_2">
+        <item>衣服裤子</item>
+        <item>鞋帽包包</item>
+        <item>化妆饰品</item>
+    </array>
+
+    <array name="a1_3">
+        <item>日常用品</item>
+        <item>水电煤气</item>
+        <item>房租</item>
+        <item>物业管理</item>
+        <item>维修保养</item>
+    </array>
+
+    <array name="a1_4">
+        <item>公共交通</item>
+        <item>打车租车</item>
+        <item>私家车费用</item>
+    </array>
+
+    <array name="a1_5">
+        <item>座机费</item>
+        <item>手机费</item>
+        <item>上网费</item>
+        <item>邮寄费</item>
+    </array>
+
+    <array name="a1_6">
+        <item>运动健身</item>
+        <item>腐败聚会</item>
+        <item>休闲玩乐</item>
+        <item>宠物宝贝</item>
+        <item>旅游度假</item>
+    </array>
+
+    <array name="a1_7">
+        <item>书报杂志</item>
+        <item>培训进修</item>
+        <item>数码装备</item>
+    </array>
+
+    <array name="a1_8">
+        <item>送礼请客</item>
+        <item>孝敬家长</item>
+        <item>还人钱物</item>
+        <item>慈善捐赠</item>
+    </array>
+
+    <array name="a1_9">
+        <item>药品费</item>
+        <item>保健费</item>
+        <item>美容费</item>
+        <item>治疗费</item>
+    </array>
+
+    <array name="a1_10">
+        <item>股票投资</item>
+    </array>
+
+    <array name="a1_11">
+        <item>杂七杂八</item>
+    </array>
+
+    <array name="a2">
+        <item>现金账户</item>
+        <item>金融账户</item>
+        <item>虚拟账户</item>
+    </array>
+
+    <array name="a2_1">
+        <item>现金</item>
+    </array>
+
+    <array name="a2_2">
+        <item>银行卡1</item>
+        <item>银行卡2</item>
+        <item>银行卡3</item>
+        <item>银行卡4</item>
+    </array>
+
+    <array name="a2_3">
+        <item>支付宝</item>
+        <item>余额宝</item>
+        <item>校园卡</item>
+        <item>公交卡</item>
+        <item>饭卡</item>
+    </array>
+
+    <array name="a3">
+        <item>职业收入</item>
+        <item>其他收入</item>
+    </array>
+
+    <array name="a3_1">
+        <item>工资收入</item>
+        <item>利息收入</item>
+        <item>加班收入</item>
+        <item>奖金收入</item>
+        <item>投资收入</item>
+        <item>兼职收入</item>
+    </array>
+
+    <array name="a3_2">
+        <item>礼金收入</item>
+        <item>中奖收入</item>
+        <item>意外收入</item>
+        <item>经营收入</item>
+    </array>
+
+</resources>
